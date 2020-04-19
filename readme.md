@@ -2,8 +2,8 @@
 * This is a docker file for building a jupyter lab container
 ## PORT
 * 8000: jupyter webservice
-* 3500: jupyter token
-## build by your self
+* 3500: jupyter token (http://[ip]:3500/server)
+## build by yourself
 * clone the repo
 * run `docker build -t JupyterLab .`
 ### run container
